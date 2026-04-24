@@ -1,0 +1,31 @@
+{
+  "name": "chat-bot-1",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "Njenga",
+    "Ian",
+    "Josh",
+    "NodeJS",
+    "chat",
+    "bot"
+  ],
+  "homepage": "https://github.com/ianJINW/chatbot101#readme",
+  "bugs": {
+    "url": "https://github.com/ianJINW/chatbot101/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianJINW/chatbot101.git"
+  },
+  "license": "MIT",
+  "author": "Njenga Ian Josh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "typescript": "^6.0.3"
+  }
+}
